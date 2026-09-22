@@ -1,0 +1,18 @@
+{
+  "group_selection": {
+    "示例组A": true,
+    "示例组B": false
+  },
+  "threshold": "0.9",
+  "interval": "10.0",
+  "cooldown": "300",
+  "away_minutes": "60",
+  "force_start": "10",
+  "force_end": "14",
+  "target_hwnd": "",
+  "scheme": "1",
+  "click": false,
+  "flash": false,
+  "email": false,
+  "squeeze": false
+}

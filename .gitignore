@@ -1,0 +1,77 @@
+# ============================================================================
+# 注意：本项目“故意”收录了 JadeView SDK 的 DLL / 静态库与编译好的 exe，
+# 因此这里不写 *.dll / *.lib / *.exe / *.exp 这类宽规则。
+# 若你要改为“只发源码”，再自行放开下面被注释的规则即可。
+# ============================================================================
+
+# ---------- 本机运行期产物（不入库）----------
+findimg.log
+findimg_settings.json
+img/
+runtime/jade_data/
+backup/
+
+# ---------- 私密配置（只提交 secrets.example.h）----------
+src/secrets.h
+
+# ---------- 编译中间产物 ----------
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.lastbuildstate
+*.iobj
+*.ipdb
+*.idb
+*.pch
+*.res
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+compile.bat
+.vs/
+
+# ---------- 归档包（可能内含构建产物或未脱敏内容）----------
+*.rar
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+# ---------- 证书 / 密钥 / 凭据 ----------
+*.pfx
+*.p12
+*.key
+*.pem
+*.cer
+*.crt
+*.pvk
+*.snk
+*.keystore
+.env
+.env.*
+# 只忽略真实密钥文件，保留模板 src/secrets.example.h
+src/secrets.h
+
+# ---------- IDE / 编辑器 ----------
+.vscode/
+.idea/
+*.user
+*.suo
+
+# ---------- 系统与临时文件 ----------
+Thumbs.db
+.DS_Store
+desktop.ini
+*.tmp
+*.bak
+*.cache
+
+# ---------- 构建输出目录 ----------
+Debug/
+Release/
+x64/Debug/
+x86/Debug/
+x64/Release/
+x86/Release/
