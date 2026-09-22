@@ -26,8 +26,9 @@
 - [九、配置说明](#九配置说明)
 - [十、图片模板规范](#十图片模板规范)
 - [十一、常见问题](#十一常见问题)
-- [十二、许可证](#十二许可证)
-- [十三、免责声明](#十三免责声明)
+- [十二、交流社群](#十二交流社群)
+- [十三、许可证](#十三许可证)
+- [十四、免责声明](#十四免责声明)
 
 ---
 
@@ -332,7 +333,33 @@ cp src/secrets.example.h src/secrets.h
 
 ---
 
-## 十二、许可证
+## 十二、交流社群
+
+遇到问题、想提改进建议，或者只是想聊聊 JadeView 前端界面与 Windows 桌面自动化，都欢迎加群交流。
+版本更新与问题答疑会在群里第一时间同步。
+
+<div align="center">
+
+<p><strong>遇到问题？欢迎加群交流 —— 版本更新与问题答疑第一时间同步</strong></p>
+
+<p>
+<a href="https://qm.qq.com/q/89nIPLRrCU" title="易语言+AI-吹牛逼（群号 607124662）"><img src="https://img.shields.io/badge/%E7%82%B9%E5%87%BB%E5%8A%A0%E5%85%A5-QQ%E7%BE%A4_607124662-12B7F5?style=for-the-badge&logo=qq&logoColor=white&labelColor=0A8FCC" alt="点击加入 QQ 群 607124662"></a>
+&nbsp;&nbsp;
+<a href="https://qm.qq.com/q/Fv9KjpGCEq" title="易语言 jadeView 前端 UI（群号 1103426302）"><img src="https://img.shields.io/badge/%E7%82%B9%E5%87%BB%E5%8A%A0%E5%85%A5-QQ%E7%BE%A4_1103426302-8B5CF6?style=for-the-badge&logo=qq&logoColor=white&labelColor=6D3FD4" alt="点击加入 QQ 群 1103426302"></a>
+</p>
+
+<p>
+<strong>易语言+AI-吹牛逼</strong> ｜ 群号 <code>607124662</code><br>
+<strong>易语言 jadeView 前端 UI</strong> ｜ 群号 <code>1103426302</code>
+</p>
+
+<p><sub>点击上方按钮即可一键加群，无需手动搜索群号</sub></p>
+
+</div>
+
+---
+
+## 十三、许可证
 
 本项目以 [GNU General Public License v3.0](LICENSE) 发布。
 
@@ -341,7 +368,7 @@ cp src/secrets.example.h src/secrets.h
 
 ---
 
-## 十三、免责声明
+## 十四、免责声明
 
 - 本项目仅供**学习与技术研究**使用，请勿用于任何违反法律法规或第三方服务条款的场景。
 - 使用者需自行承担因使用本工具产生的一切后果，包括但不限于目标软件服务条款风险与账号风险。
